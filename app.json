@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "bolt-expo-nativewind",
+    "slug": "bolt-expo-nativewind",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "WEATHER_API_KEY": "3959743122e91aaa311e209e70d39b65",
+      "eas": {
+        "projectId": "a9848b3e-7128-4ffa-a706-5891d8393bf1"
+      }
+    }
+  }
+}
