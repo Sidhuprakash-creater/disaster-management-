@@ -23,7 +23,7 @@
       "typedRoutes": true
     },
     "extra": {
-      "WEATHER_API_KEY": "3959743122e91aaa311e209e70d39b65",
+      "WEATHER_API_KEY": "b683e6446341486adf5e256bed11f95a",
       "eas": {
         "projectId": "a9848b3e-7128-4ffa-a706-5891d8393bf1"
       }
