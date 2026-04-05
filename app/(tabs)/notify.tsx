@@ -29,7 +29,7 @@ const AnimatedTouchableOpacity = Animated.createAnimatedComponent(TouchableOpaci
 const NotifyScreen = () => {
   const insets = useSafeAreaInsets();
   const [sending, setSending] = useState(false);
-  const [emergencyNumber, setEmergencyNumber] = useState('+919693437679');
+  const [emergencyNumber, setEmergencyNumber] = useState('+916371850005');
   const { theme } = useTheme();
   const colors = getThemeColors(theme);
 
